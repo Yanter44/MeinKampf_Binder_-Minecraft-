@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\formsBinder\bin\Debug\formsBinder.exe.config
+C:\Users\user\source\repos\formsBinder\bin\Debug\formsBinder.exe
+C:\Users\user\source\repos\formsBinder\bin\Debug\formsBinder.pdb
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.Form1.resources
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.Properties.Resources.resources
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.csproj.GenerateResource.cache
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.exe
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.pdb
+C:\Users\user\source\repos\formsBinder\bin\Debug\H.Hooks.dll
+C:\Users\user\source\repos\formsBinder\bin\Debug\WindowsInput.dll
+C:\Users\user\source\repos\formsBinder\bin\Debug\H.Hooks.xml
+C:\Users\user\source\repos\formsBinder\bin\Debug\WindowsInput.pdb
+C:\Users\user\source\repos\formsBinder\bin\Debug\WindowsInput.xml
+C:\Users\user\source\repos\formsBinder\obj\Debug\formsBinder.csproj.CopyComplete
